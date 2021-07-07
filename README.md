@@ -1,5 +1,5 @@
 # tryung
-<img src="https://user-images.githubusercontent.com/46978582/124822236-e183d300-df2c-11eb-81c1-ffde43851880.png" alt="alt text" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/46978582/124822236-e183d300-df2c-11eb-81c1-ffde43851880.png" alt="alt text" width="500" height="500">
 # android screen shots
 
 ![home_page](https://user-images.githubusercontent.com/46978582/124822236-e183d300-df2c-11eb-81c1-ffde43851880.png)
