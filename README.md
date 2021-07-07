@@ -1,4 +1,4 @@
-Created flutter food application UI found dribble [made by Ainda Rahma](https://dribbble.com/shots/15272476-Food-Mobile-App) 
+Created flutter food application UI found dribble in [made by Ainda Rahma](https://dribbble.com/shots/15272476-Food-Mobile-App) 
 
 # screen shots
 
