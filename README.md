@@ -1,4 +1,4 @@
-# android screen shots
+# screen shots
 
 <img src="https://user-images.githubusercontent.com/46978582/124822236-e183d300-df2c-11eb-81c1-ffde43851880.png" alt="portfolio_view" width="300" height="500">
 
