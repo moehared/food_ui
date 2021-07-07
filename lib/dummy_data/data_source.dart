@@ -1,4 +1,5 @@
-import '../model/category.dart';
+import 'package:food_ui/model/category.dart';
+import 'package:food_ui/model/place.dart';
 
 enum FoodType {
   FAST_FOOD,
@@ -134,4 +135,21 @@ const FOOD_DATA = const [
       'ketchup.png',
     ],
   }
+];
+
+const places = const [
+  Place(
+    image: 'burger.png',
+    name: 'Burger Queen',
+    rating: 4.5,
+    price: 12.00,
+    location: '2.2 km',
+  ),
+  Place(
+    image: 'pizza.png',
+    name: 'Delicious Pizza',
+    rating: 5.0,
+    price: 14.00,
+    location: '3.1 km',
+  ),
 ];
